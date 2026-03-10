@@ -227,7 +227,7 @@ Troubleshoot - Network connectivity
 Troubleshoot - Remote SSH to routers
 
 Configuration - Router OSPF cable connections
-Configuration - Open Short First Path CLI configs
+Configuration - Open Short Path First configs
 Configuration - Active Directory - Users and Groups
 Configuration - Active Directory - Interactive Logon Banner
 Configuration - Active Directory - Logon PNG Background
