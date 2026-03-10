@@ -33,7 +33,7 @@ Note: *Dependency on time
 
 ## Updates:
 
-Week 1:
+**Week 1:**
 ```
 Discuss - Physical topology
 Discuss - Logical topology
@@ -57,7 +57,7 @@ Notes:
 ```
 
 
-Week 2:
+**Week 2:**
 ```
 Design - Addressing Table
 
@@ -74,7 +74,7 @@ Notes:
 ```
 
 
-Week 3:
+**Week 3:**
 ```
 Discuss - Delegation of device configuration 
 Discuss - Delegation of device hardening 
@@ -95,11 +95,17 @@ Update - timesheet
 
 Notes:
 ```
+
+
+
 Packet Tracer Toplogy 1.0:
 
 ![topology](Resources/PacketTracerTopology1.0.png)
 
-Week 4:
+
+
+
+**Week 4:**
 ```
 Discuss - Logical Topology to version 2.0 
 Discuss - Verification of final copy of addressing table
@@ -124,7 +130,7 @@ Updated network bridges, replaced machines with Cisco 8000 virtual routers
 ```
 
 
-Week 5:
+**Week 5:**
 ```
 Discuss - Research on open vswitches
 Discuss - Move hardening configurations as future task 
@@ -148,11 +154,17 @@ Update - timesheet
 
 Notes: 
 ```
+
+
+
 Packet Tracer Topology 2.0:
 
 ![topology](Resources/PacketTracerTopology.png)
 
-Week 6:
+
+
+
+**Week 6:**
 ```
 Planning & Designing:
 
@@ -178,7 +190,7 @@ Deployment scripts on ProxMox
 ```
 
 
-Week 7:
+**Week 7:**
 ```
 Update - timesheet
 
@@ -188,7 +200,7 @@ No work was done this week as we prepared for the CCNA Certification Exam
 ```
 
 
-Week 8:
+**Week 8:**
 ```
 Discuss - Current roadmap and upcoming expectations
 
@@ -199,7 +211,7 @@ School is back in session from reading break
 ```
 
 
-Week 9:
+**Week 9:**
 ```
 Discuss - Configuration file for ProxMox
 Discuss - In-depth plan for in class activity
@@ -217,11 +229,16 @@ Update - time sheet
 Notes:
 ```
 
+
+
 Installation of Active Directoy:
 
 ![topology](Resources/AD.png)
 
-Week 10:
+
+
+
+**Week 10:**
 ```
 Discuss - Class activity 
 
