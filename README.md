@@ -146,6 +146,7 @@ Update - timesheet
 
 Notes: 
 ```
+Packet Tracer Topology 2.0:
 ![topology](Resources/PacketTracerTopology.png)
 
 Week 6:
@@ -212,6 +213,8 @@ Update - time sheet
 
 Notes:
 ```
+
+Installation of Active Directoy:
 ![topology](Resources/AD.png)
 
 Week 10:
@@ -239,8 +242,17 @@ Update - timesheet
 
 Notes:
 ```
+Users and Groups added into Active Directory:
 ![topology](Resources/UsersandGroups.png)
+
+Virtual Machine PCs added into the Domain:
 ![topology](Resources/PCinDomain.png)
+
+Policies created for Interactive Logon Banner:
 ![topology](Resources/IntBannerRules.png)
+
+Interactive Logon Banner in Windows Virtual Machine:
 ![topology](Resources/InteracticeBanner.png)
+
+ProxMox Topology:
 ![topology](Resources/ProxMoxTopology.png)
