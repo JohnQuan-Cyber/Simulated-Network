@@ -241,6 +241,7 @@ Update - READMe
 Update - timesheet
 
 Notes:
+Once Active Directory is configured with Users and Group policies, we will implement firewall rules 
 ```
 Users and Groups added into Active Directory:
 ![topology](Resources/UsersandGroups.png)
