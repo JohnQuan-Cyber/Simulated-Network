@@ -96,6 +96,7 @@ Update - timesheet
 Notes:
 ```
 Packet Tracer Toplogy 1.0:
+
 ![topology](Resources/PacketTracerTopology1.0.png)
 
 Week 4:
@@ -148,6 +149,7 @@ Update - timesheet
 Notes: 
 ```
 Packet Tracer Topology 2.0:
+
 ![topology](Resources/PacketTracerTopology.png)
 
 Week 6:
@@ -216,6 +218,7 @@ Notes:
 ```
 
 Installation of Active Directoy:
+
 ![topology](Resources/AD.png)
 
 Week 10:
@@ -245,16 +248,21 @@ Notes:
 Once Active Directory is configured with Users and Group policies, we will implement firewall rules 
 ```
 Users and Groups added into Active Directory:
+
 ![topology](Resources/UsersandGroups.png)
 
 Virtual Machine PCs added into the Domain:
+
 ![topology](Resources/PCinDomain.png)
 
 Policies created for Interactive Logon Banner:
+
 ![topology](Resources/IntBannerRules.png)
 
 Interactive Logon Banner in Windows Virtual Machine:
+
 ![topology](Resources/InteracticeBanner.png)
 
 ProxMox Topology:
+
 ![topology](Resources/ProxMoxTopology.png)
