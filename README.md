@@ -95,7 +95,8 @@ Update - timesheet
 
 Notes:
 ```
-
+Packet Tracer Toplogy 1.0:
+![topology](Resources/PacketTracerTopology1.0.png)
 
 Week 4:
 ```
