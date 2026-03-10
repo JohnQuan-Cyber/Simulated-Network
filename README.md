@@ -146,7 +146,7 @@ Update - timesheet
 
 Notes: 
 ```
-
+![topology](Resources/PacketTracerTopology.png)
 
 Week 6:
 ```
@@ -212,7 +212,7 @@ Update - time sheet
 
 Notes:
 ```
-
+![topology](Resources/AD.png)
 
 Week 10:
 ```
@@ -238,5 +238,9 @@ Update - READMe
 Update - timesheet
 
 Notes:
-
 ```
+![topology](Resources/UsersandGroups.png)
+![topology](Resources/PCinDomain.png)
+![topology](Resources/IntBannerRules.png)
+![topology](Resources/InteracticeBanner.png)
+![topology](Resources/ProxMoxTopology.png)
