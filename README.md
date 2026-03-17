@@ -283,3 +283,25 @@ Interactive Logon Banner in Windows Virtual Machine:
 ProxMox Topology:
 
 ![topology](Resources/ProxMoxTopology.png)
+
+**Week 11:**
+
+```
+Discuss - Active Directory GPOs
+Discuss - Fireall Rules
+Discuss - Cost Analysis - Physical and Hybrid Infrastructure 
+Discuss - Final Report 
+Discuss -  Class Demo
+
+Implement - Firewall Rules
+Implement - Procure a physical infrstrucutre setup cost
+Implement - Procure a hybrid infrstrucutre setup cost
+Implement - Class demo time trial
+
+Configuration - Firewall Rules
+
+Update - READMe
+Update - time sheet
+
+Notes:
+```
