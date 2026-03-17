@@ -1,7 +1,5 @@
 # The Simulated Network Project
 
-By James Cook, Devon Christman, Johnny Quan
-
 ## Objective:
 This project demonstrates: 
 - The designing, configuring, and deployment enterprise-scale network using CCNA knowledge on a traditional on-premise infrastructure using packet-tracer and hybrid cloud infrastructure using ProxMox.
