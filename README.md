@@ -305,3 +305,18 @@ Update - time sheet
 
 Notes:
 ```
+Firewall configurations for group (NSG):
+
+![topology](Resources/FirewallNSG.png)
+
+Enabling firwall on the Network Interface Card:
+
+![topology](Resources/FirewallEndDevice1.png)
+
+Enabling firewall on the virtual machine firewall options:
+
+![topology](Resources/FirewallEndDevice2.png)
+
+Enabling firewall on the virtual machine firewall options:
+
+![topology](Resources/FirewallEndDevice3.png)
