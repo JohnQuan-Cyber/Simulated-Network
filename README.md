@@ -305,12 +305,14 @@ Update - READMe
 Update - time sheet
 
 Notes:
+This week we discuss and implement the firewall rules we wanted for the group as well as individual rules for each of the PCs.
+We discuss and research the hardware we wanted to procure for the traditional and hybrid infrastrucure for the cost analysis report.
 ```
-Firewall configurations for group (NSG):
+Firewall configurations for group in ProxMox(NSG):
 
 ![topology](Resources/FirewallNSG.png)
 
-Enabling firwall on the Network Interface Card:
+Enabling firewall on the Network Interface Card:
 
 ![topology](Resources/FirewallEndDevice1.png)
 
