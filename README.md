@@ -1,9 +1,12 @@
 # The Simulated Network Project
 
-By James, Johnny, and Devon
+By James Cook, Devon Christman, Johnny Quan
 
 ## Objective:
-This project demonstrates the designing, configuring, and deploying enterprise-scale network using CCNA knowledge on a traditional on-premise infrastructure using packet-tracer and hybrid cloud infrastructure using ProxMox. 
+This project demonstrates: 
+- The designing, configuring, and deployment enterprise-scale network using CCNA knowledge on a traditional on-premise infrastructure using packet-tracer and hybrid cloud infrastructure using ProxMox.
+- The designing, configuring, and deployment of security measures using CCNA knowledge on a traditional on-premise infrstrucutre usiing packet-tracer and hybrid cloud infrastructure using ProxMox.
+- Perform cost analysis and procurment planning to optimize hardware acquisition and ensure cost-effective purchasing.
 
 ## Motivation:
 As recent students completing the CCNA course, this hands-on project validates our ability to architect a real-world topology while testing scalability and best practices in a controlled environment.  
