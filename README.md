@@ -72,6 +72,7 @@ Implement - Packet Tracer - Desktop PCs
 Update - time sheet
 
 Notes:
+Intial addressing table was drafted (3 hours) once this was completed, it allowed me to configure the routers and layer 3 switches.
 ```
 
 
@@ -126,8 +127,9 @@ Implement - ProxMox - Add address to bridges
 Update - timesheet
 
 Notes:
-Add addresses to the bridges and switched virtual machines and appropriate tags to VMs
-Updated network bridges, replaced machines with Cisco 8000 virtual routers
+Add addresses to the bridges and switched virtual machines and appropriate tags to VMs on ProxMox.
+Updated network bridges, replaced machines with Cisco 8000 virtual routers on ProxMox.
+Configured devices on Packet Tracer (mainly routers and switches)
 ```
 
 
@@ -153,7 +155,7 @@ Implement - Establish connectivity between OVS
 
 Update - timesheet
 
-Notes: 
+Notes:
 ```
 
 
@@ -187,7 +189,7 @@ Implement - Packet Tracer - VLANs
 Update - timesheet
 
 Notes:
-Deployment scripts on ProxMox
+Ran into some network connectivity with DHCP assignment. Had to make sure that the VLans and DHCP configurations are correct. Troubleshooting took approximately 4 hours. 
 ```
 
 
@@ -228,6 +230,7 @@ Update - READMe
 Update - time sheet
 
 Notes:
+Install the Windows Server 2025 Operating Sytem and then started to add the features (Active Directory and DNS). Recalling that it was correctly done with steps in the server fundatmental course in second term.  
 ```
 
 
@@ -252,7 +255,7 @@ Configuration - Router OSPF cable connections
 Configuration - Open Short Path First configs
 Configuration - Active Directory - Users and Groups
 Configuration - Active Directory - Interactive Logon Banner
-Configuration - Active Directory - Logon PNG Background
+Configuration - Active Directory - Log on PNG Background
 Configuration - Active Directory - Account Policy
 Configuration - Active Directory - Password Policy
 Configuration - Active Directory - Joining virtual machines to JNB domain
@@ -263,7 +266,7 @@ Update - READMe
 Update - timesheet
 
 Notes:
-Once Active Directory is configured with Users and Group policies, we will implement firewall rules 
+Once Active Directory is configured with Users and Group policies, we will implement firewall rules.
 ```
 Users and Groups added into Active Directory:
 
