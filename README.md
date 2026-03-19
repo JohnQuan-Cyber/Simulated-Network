@@ -7,7 +7,7 @@ This project demonstrates:
 - Perform cost analysis and procurment planning to optimize hardware acquisition and ensure cost-effective purchasing.
 
 ## Motivation:
-As recent students completing the CCNA course, this hands-on project validates our ability to architect a real-world topology while testing scalability and best practices in a controlled environment.  
+With all the relevent courses in the program plus with the recent completion of the CCNA course, this hands-on project validates our ability to architect a real-world topology while testing scalability and best practices in a controlled environment.
 
 ## Key Features: 
 
