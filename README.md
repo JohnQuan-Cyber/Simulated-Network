@@ -322,4 +322,20 @@ Enabling firewall on the virtual machine firewall options:
 
 Enabling firewall on the virtual machine firewall options:
 
+
+**Week 12:**
+
+```
+Cost Analysis Report Rough Draft
+Cost Analysis Report Final Report
+Final Capstone Report Rough Draft
+Final Capstone Report
+Final Capstone PowerPoint
+Interactive Class Activity 
+
+Update - READMe
+Update - time sheet
+```
+
+
 ![topology](Resources/FirewallEndDevice3.png)
