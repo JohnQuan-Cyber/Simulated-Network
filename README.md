@@ -322,6 +322,7 @@ Enabling firewall on the virtual machine firewall options:
 
 Enabling firewall on the virtual machine firewall options:
 
+![topology](Resources/FirewallEndDevice3.png)
 
 **Week 12:**
 
@@ -336,6 +337,3 @@ Interactive Class Activity
 Update - READMe
 Update - time sheet
 ```
-
-
-![topology](Resources/FirewallEndDevice3.png)
