@@ -334,6 +334,16 @@ Final Capstone Report
 Final Capstone PowerPoint
 Interactive Class Activity 
 
+Troubleshoot - Packet Tracer - All Device Connectivity
+
+Configure - Packet Tracer -  HSRP
+Configure - Packet Tracer -  IP Phone Configuration
+
+Implement - Packet Tracer - HSRP
+Implement - Packet Tracer - IP Phone Configuration
+
 Update - READMe
 Update - time sheet
+
+Note:
 ```
