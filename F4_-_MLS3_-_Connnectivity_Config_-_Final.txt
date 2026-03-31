@@ -1,0 +1,115 @@
+==================== Layer 3 Switch - Floor 4 Configurations ====================
+
+enable 
+configure terminal
+
+interface range GigabitEthernet 1/0/1-2
+description Routing Ports
+no switchport
+exit
+
+interface range GigabitEthernet 1/0/3-6
+description Trunking Ports
+switchport mode trunk
+switchport trunk allowed vlan 10,20,30,40,50,60,70,80,90
+no shutdown
+exit
+
+========== Layer 3 Switch - Floor 4 - Interface Configurations ==========
+
+interface GigabitEthernet 1/0/1
+ip address 10.0.0.42 255.255.255.252
+no shutdown
+exit
+
+interface GigabitEthernet 1/0/2
+ip address 10.0.0.54 255.255.255.252
+no shutdown
+exit
+
+interface range GigabitEthernet 1/0/7-24
+description Unused Ports Shutdown
+shutdown
+exit
+
+
+========== Layer 3 Switch - Floor 4 - OSPF Configurations ==========
+
+ip routing
+
+router ospf 10
+network 10.0.0.40 0.0.0.3 area 0 
+network 10.0.0.52 0.0.0.3 area 0 
+network 172.16.10.128 0.0.0.31 area 0
+network 172.16.10.160 0.0.0.31 area 0
+network 172.16.10.192 0.0.0.31 area 0
+network 172.16.10.224 0.0.0.31 area 0
+exit
+
+
+========== Layer 3 Switch - Floor 4 - VLAN Configurations ==========
+
+vlan 10
+name Operations
+vlan 20
+name Finance
+vlan 30
+name Customer_Service
+vlan 40
+name Marketing
+vlan 50
+name Management
+vlan 60
+name Human_Resource
+vlan 70
+name Administration
+vlan 80
+name Server
+vlan 90 
+name Unused
+
+interface vlan 70
+ip address 172.16.10.158 255.255.255.224
+ip helper-address 172.16.10.185
+no shutdown
+
+interface vlan 80
+ip address 172.16.10.190 255.255.255.224
+ip helper-address 172.16.10.185
+no shutdown
+
+interface vlan 50
+ip address 172.16.10.222 255.255.255.224
+ip helper-address 172.16.10.185
+no shutdown
+
+interface vlan 60
+ip address 172.16.10.254 255.255.255.224
+ip helper-address 172.16.10.185
+no shutdown
+
+ip dhcp excluded-address 172.16.10.129 172.16.10.153
+ip dhcp excluded-address 172.16.10.161 172.16.10.185
+ip dhcp excluded-address 172.16.10.193 172.16.10.217
+ip dhcp excluded-address 172.16.10.225 172.16.10.249
+
+
+ip dhcp pool VLAN70
+network 172.16.10.128 255.255.255.224
+default-router 172.16.10.158
+exit
+
+ip dhcp pool VLAN80
+network 172.16.10.160 255.255.255.224
+default-router 172.16.10.190
+exit
+
+ip dhcp pool VLAN50
+network 172.16.10.192 255.255.255.224
+default-router 172.16.10.222
+exit
+
+ip dhcp pool VLAN60
+network 172.16.10.224 255.255.255.224
+default-router 172.16.10.254
+exit
