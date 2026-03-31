@@ -34,6 +34,11 @@ Note: *Dependency on time
 - ProxMox
 - Laptop/Desktop 
 
+
+## Future 
+
+
+
 ## Updates:
 
 **Week 1:**
@@ -346,4 +351,11 @@ Update - READMe
 Update - time sheet
 
 Note:
+```
+
+**Week 13:**
+
+```
+Presentation
+
 ```
