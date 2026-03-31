@@ -35,8 +35,10 @@ Note: *Dependency on time
 - Laptop/Desktop 
 
 
-## Future 
+## Future Outlook:
 
+There are features that we weren't able to get to due to time constraints. 
+Packet Tracer and Proxmox will be updated in the future.
 
 
 ## Updates:
@@ -356,6 +358,6 @@ Note:
 **Week 13:**
 
 ```
-Presentation
+Final Presentation
 
 ```
