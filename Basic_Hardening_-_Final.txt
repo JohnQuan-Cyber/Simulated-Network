@@ -1,0 +1,40 @@
+============================== Basic Device Hardening Configurations ==============================
+
+
+
+enable
+configure terminal
+hostname -------
+banner motd #
+******************************************************************
+*                                                                *
+*  WARNING: UNAUTHORIZED ACCESS STRICTLY PROHIBITED              *
+*                                                                *
+*  This system is for the use of authorized users only.          *
+*  Individuals using this computer system without authority,     *
+*  or in excess of their authority, are subject to having all    *
+*  their activities on this system monitored and recorded by     *
+*  system personnel. Anyone using this system expressly consents *
+*  to such monitoring.                                           *
+*                                                                *
+*  Device: $(hostname) ($(ip-addr))                              *
+*  Accessed on line $(line)                                      *
+*                                                                *
+******************************************************************
+#
+no ip domain lookup
+enable secret class
+
+line console 0
+password cisco
+exec-timeout 3 0
+login
+exit
+
+line vty 0 15
+login local
+transport input ssh
+exit
+
+
+
